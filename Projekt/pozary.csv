@@ -1,0 +1,1001 @@
+id,miasto,czyPada,iloscWody,cenaAkcji
+1,Bajo Pichanaqui,false,9039.65,118759.25
+2,Manquiring,false,84217.87,68889.99
+3,Predavac,true,99050.26,100031.46
+4,Mir,true,68643.93,112996.67
+5,Médanos,false,75685.47,45482.03
+6,Sedatigede,false,91685.67,134037.29
+7,Mariestad,false,97361.02,67439.47
+8,Recarei,true,45021.0,107504.61
+9,Jinhua,true,13158.01,45457.96
+10,Santa Cruz De Tenerife,false,58280.03,23337.36
+11,Montijo,false,72030.14,109597.88
+12,Ratenggoji,false,39308.87,50007.03
+13,Tiexi,false,97187.73,111547.42
+14,Ipís,false,3195.66,131305.06
+15,Nkhotakota,false,56779.5,29021.38
+16,Konstantinovo,true,42768.52,107377.41
+17,Daliu,false,92876.0,82734.9
+18,Kranggan,true,80314.95,90128.88
+19,Ejido,true,34026.71,89664.92
+20,Yuscarán,false,37861.58,107606.32
+21,Hukeng,false,46448.79,46164.1
+22,Yachimata,false,89318.86,128874.47
+23,Mirões,true,15293.82,88835.99
+24,Ostashkov,false,69697.11,99709.83
+25,Perreng,false,76554.41,95508.23
+26,Wādī al ‘Uyūn,false,62669.29,91168.66
+27,San Fernando,false,48089.29,131154.14
+28,Takari,true,17212.82,93811.52
+29,Bao’an,false,60032.13,107062.58
+30,Tambir,false,31827.05,70999.96
+31,Pérama,false,54424.31,17076.89
+32,Puqian,true,46291.81,53058.48
+33,Guadalupe,true,68934.35,56953.21
+34,Żórawina,true,48926.18,134940.9
+35,Roskoshnyy,false,54618.0,126620.65
+36,Ugac Sur,true,84121.33,37906.0
+37,Parajara,false,79092.14,40348.34
+38,Papër,true,2525.26,133556.41
+39,Hegeng,true,62566.11,83965.32
+40,Mtwara,true,23410.85,20791.16
+41,Kamphaeng Phet,true,27131.81,128496.65
+42,Avanca,false,21802.92,129025.65
+43,Sirindhorn,false,92402.87,84373.48
+44,Klek,false,48925.4,90553.89
+45,Ra’s Bayrūt,true,55600.29,77814.28
+46,Krajan Gajihan,false,22132.64,106349.92
+47,Tostado,false,90833.36,38542.2
+48,Tambakbaya,true,68929.78,49978.88
+49,Marieville,false,46757.06,48261.49
+50,Heping,true,51629.34,65104.98
+51,Domampot,false,22366.01,41763.69
+52,Buenavista,true,42904.49,63407.46
+53,Louisville,true,8771.33,12344.83
+54,Rockford,false,27972.15,126798.45
+55,Shaba,true,27821.51,56862.34
+56,Depok,false,85422.38,89590.99
+57,Fāraskūr,true,8774.01,122991.32
+58,Emiliano Zapata,true,60377.84,66834.24
+59,Petersfield,true,18542.71,100202.53
+60,Três Lagoas,false,13060.95,30050.56
+61,San Vicente,false,61185.12,118101.52
+62,Vailoatai,true,99701.51,139582.72
+63,Huddinge,false,24088.68,19384.84
+64,Shatalovo,true,28366.17,42148.15
+65,Karangboyo,false,81931.11,14572.91
+66,Maglajani,false,86750.03,32747.14
+67,Antonio Toledo Corro,true,21549.82,80867.39
+68,Lanús,false,91836.36,118813.26
+69,Porto Seguro,true,88703.18,64412.96
+70,Gaotai,true,48333.09,66820.95
+71,San Luis,false,88944.54,27107.56
+72,Qaxa,true,73665.9,35151.58
+73,Urek-urek,false,51119.21,49929.09
+74,Finspång,true,97817.55,19112.08
+75,San Juan,true,50404.84,49874.99
+76,Arlington,true,52904.01,103704.34
+77,Neftegorsk,false,78757.39,100828.18
+78,Accha,true,48401.81,111792.02
+79,Pimentel,true,86393.79,20638.15
+80,Yeniugou,false,76670.9,17460.71
+81,Sendangagung,true,4295.38,31289.04
+82,Yudaikelike,false,53948.32,128852.02
+83,Tākestān,true,30406.46,121405.91
+84,Kallithéa,false,85062.99,20168.42
+85,Aleksandrovskiy Zavod,false,93706.37,115099.61
+86,Sendung,true,52005.12,58895.46
+87,Pruchnik,false,92951.21,36723.38
+88,Belo Jardim,true,54537.64,12675.5
+89,Florida,false,3957.26,65583.09
+90,Damanhūr,true,8227.41,59306.97
+91,Mogoditshane,false,1935.09,20338.29
+92,Misungwi,false,19476.97,27477.21
+93,Valladolid,false,56727.55,83796.4
+94,Ciawitali,true,53388.63,111393.0
+95,Chalon-sur-Saône,false,73307.44,123704.23
+96,Āshtīān,true,34692.34,132138.53
+97,Xichangmen,true,57068.07,105206.56
+98,Zapatero,true,55653.87,78620.5
+99,Kerkrade,true,66365.21,57729.12
+100,Chengui,true,10369.18,25222.04
+101,Pensilvania,false,5636.09,30040.18
+102,Všetaty,false,97995.7,40780.74
+103,Omaha,false,39779.35,54076.95
+104,Konstantynów Łódzki,false,26478.47,19201.57
+105,Abaeté,true,40764.75,73649.15
+106,Rio Negro,false,58857.38,104743.06
+107,Kutapanjang,true,91788.07,138177.93
+108,Paucar,true,51521.31,85302.96
+109,Podgortsy,true,22631.66,23297.05
+110,San Pedro,true,55801.72,82580.92
+111,Songyuan,false,40999.62,42073.17
+112,Dubrovka,false,15578.44,117141.39
+113,Battle Creek,true,24063.84,128057.36
+114,Grecheskoye,false,81518.35,132063.88
+115,Shuyuan Zhen,true,43827.53,77261.45
+116,Inowrocław,true,88188.26,123852.43
+117,Bačka Palanka,true,16665.97,50993.25
+118,Blois,false,49956.79,129079.75
+119,Žatec,false,31637.52,66567.39
+120,Kuantan,true,15102.63,84928.11
+121,Qingshui,false,99365.15,94423.67
+122,Puerto Eldorado,true,19581.37,114162.75
+123,Franco da Rocha,false,20815.97,111405.76
+124,Rodotópi,false,7635.05,112312.33
+125,Jaunpiebalga,true,80842.54,89337.95
+126,Cimuncang,true,41142.44,132474.58
+127,Santa Monica,false,57357.89,82299.05
+128,Luftinjë,true,43705.14,118146.4
+129,Guapimirim,true,32001.03,20751.73
+130,Macon,true,88901.06,92724.21
+131,Providencia,true,55370.63,47986.06
+132,Kopen,true,40789.65,137278.2
+133,Gamut,true,84824.96,107617.0
+134,Maquanzhen,true,61723.01,83394.89
+135,Ağdaş,false,65742.37,15994.13
+136,Chenghe,true,58029.6,21063.0
+137,Pacaembu,false,55309.86,96949.84
+138,Hantsport,true,54065.78,54650.85
+139,Lishu,true,96475.96,80435.21
+140,Tyresö,true,91069.33,130145.55
+141,Ashikaga,false,19842.02,82695.96
+142,Jiefangyan,false,4210.49,73401.15
+143,Sobradinho,false,74589.9,139889.86
+144,Veliko Tŭrnovo,true,93654.19,21995.43
+145,Petare,false,27224.54,124335.81
+146,Shizuoka-shi,false,47566.7,14309.35
+147,Changling,false,32191.4,107070.97
+148,Niquelândia,false,38128.28,56662.43
+149,Lambton Shores,false,30649.76,114486.23
+150,Tangjiawan,false,52126.75,55032.75
+151,Bantian,false,85867.17,86844.12
+152,Castelnaudary,true,81719.19,104180.6
+153,Adorjan,false,56449.79,43114.48
+154,Zhuxing Chaoxianzu,true,48583.96,103425.69
+155,General Lavalle,false,22286.65,97344.68
+156,Oslo,false,24760.93,99158.26
+157,Clifden,false,86565.15,130364.41
+158,Saint Louis,true,84791.49,14066.23
+159,Vitry-le-François,false,15328.21,79934.13
+160,Cimrutu,true,8501.84,17365.15
+161,Antonio Toledo Corro,false,33238.38,114845.98
+162,Detroit,true,93089.27,22924.66
+163,Hřebeč,true,54567.41,23382.96
+164,Welkom,false,4399.58,48359.17
+165,Podhum,true,39939.63,66899.12
+166,Nauchnyy Gorodok,false,52579.45,104422.76
+167,Tumauini,false,50568.17,36491.68
+168,Butungan,true,20281.75,21382.59
+169,Arcangel,false,17079.84,108625.65
+170,Petaling Jaya,true,96954.49,47643.02
+171,Luhačovice,false,60465.05,105005.41
+172,Erhaodi,true,21008.08,44741.62
+173,Bataiporã,false,48125.71,126052.53
+174,Mohelnice,false,1622.66,86009.31
+175,Wenquan,true,48112.08,96586.5
+176,Fort Lauderdale,false,24822.81,116889.78
+177,Tadou,false,13705.91,132030.98
+178,Glamang,true,35301.21,130073.09
+179,Yinying,false,83557.8,123896.86
+180,Berlin,false,65342.36,53494.99
+181,Hou’an,true,59377.91,16462.99
+182,Singabarong,false,4235.51,16886.09
+183,Seattle,false,16195.11,71984.29
+184,Xishanzui,false,4711.39,14490.39
+185,Bakuriani,false,84391.63,108021.28
+186,Sobienie Jeziory,true,89994.46,104109.58
+187,Konice,true,64189.69,90610.4
+188,Avdzaga,true,79777.69,42389.89
+189,Sukošan,true,49998.26,119460.37
+190,Khoroshëvo-Mnevniki,true,2853.18,11842.26
+191,Clermont-Ferrand,true,70980.16,26461.67
+192,Na Thawi,false,24933.45,103940.52
+193,Ängelholm,false,14434.29,77653.4
+194,Guruyan,true,40526.47,86569.11
+195,Chanika,false,30419.11,60637.39
+196,Bol,false,90589.84,99589.16
+197,Yuefeng,true,14192.86,94893.67
+198,Pego Longo,false,17246.39,32407.09
+199,Naukot,true,80854.51,72338.01
+200,Anabar,false,52584.11,109828.88
+201,Sungaikakap,false,84341.6,91071.41
+202,Ketangi,true,18722.37,49091.04
+203,Rostokino,true,66154.2,69530.36
+204,Lipnica Wielka,true,9699.39,34634.91
+205,Ciilat,false,25954.87,84557.13
+206,Hovås,false,73110.49,32979.38
+207,Cimonyong,true,62193.67,43537.38
+208,Tovarkovskiy,true,16355.49,31446.79
+209,Dārān,false,41936.93,84149.01
+210,Orléans,false,9155.43,32571.14
+211,Sanshui,false,97031.68,93908.83
+212,Baoshui,false,60087.7,125969.06
+213,Qümong,false,17511.67,46521.88
+214,Yangsha,false,95444.53,112990.1
+215,Pashiya,true,71130.11,49408.44
+216,Yangju,true,32852.09,75991.45
+217,Kävlinge,true,39279.11,120911.08
+218,Yumendong,false,2150.63,61746.66
+219,Douala,false,18350.42,102298.81
+220,Boca Suno,false,71549.71,14578.74
+221,Acolla,false,5220.89,82653.73
+222,Deneysville,true,27463.64,20243.44
+223,Kokoshkino,false,95378.54,106186.96
+224,Kamakura,false,11377.64,112432.51
+225,Peace River,true,56587.21,96633.91
+226,Jasienica,true,2122.69,79651.12
+227,Stavyshche,true,18169.78,50431.91
+228,Taposan,true,75894.64,46829.31
+229,Gayabaru,false,56261.22,19601.97
+230,Taldyqorghan,false,55895.96,105877.75
+231,San Juan de Mata,false,37935.08,50376.18
+232,Kitob,false,28678.23,78899.7
+233,Mucllo,false,7820.74,134814.95
+234,Strasbourg,false,99050.36,92495.95
+235,Gaobu,false,21955.36,96326.92
+236,Nahura,false,7675.49,82462.66
+237,Chocos,false,1751.54,45831.79
+238,Lengshui,false,67319.39,25778.6
+239,Curití,false,45041.96,78835.9
+240,Morrinhos,true,46882.85,101267.64
+241,Dagsar,false,81711.43,11663.91
+242,Lajkovac,true,10114.19,23819.35
+243,Funes,false,76616.02,84170.64
+244,Grebenskaya,false,69737.69,127069.32
+245,Shashi,false,27029.44,46912.06
+246,Hitoyoshi,true,88405.55,93137.13
+247,Anju,false,20417.18,113942.35
+248,Klapagada,true,18279.64,76578.91
+249,Jaunpils,false,14653.25,13021.43
+250,Ecilda Paullier,true,78199.1,138115.03
+251,Zgurovka,false,74269.03,61338.14
+252,Haramgai,true,69304.03,113470.35
+253,Canghou,true,69389.42,110255.6
+254,Madīnat ash Shamāl,false,76510.41,119307.4
+255,Vilufushi,true,40216.92,124304.67
+256,Xiong’erzhai,false,7463.51,129882.29
+257,Jawa,true,55377.19,38848.84
+258,Hezhai,false,74603.59,38375.61
+259,Złocieniec,false,19935.15,63430.57
+260,Murree,true,54174.09,24348.19
+261,Xihu,true,49815.75,111680.59
+262,Weichanglu,false,91695.71,134024.5
+263,Tessalit,true,62018.57,52252.66
+264,Villa Mercedes,false,71655.55,19476.96
+265,Marantao,false,43628.48,95601.18
+266,Huaxian,true,10439.24,39202.13
+267,Longshan,false,24272.15,134550.11
+268,Laingsburg,false,44737.39,37086.37
+269,Vila Nova de Santo André,true,34543.87,82923.76
+270,Marataizes,true,19643.95,36608.26
+271,Khantaghy,false,36818.57,127613.18
+272,Saverne,true,19487.0,130460.28
+273,Soe,false,11276.32,84423.19
+274,Vigia,true,21259.04,55835.09
+275,Nagato,true,38669.85,17226.64
+276,Marston,false,72443.45,27253.55
+277,Kedrovyy,false,30147.52,110641.46
+278,Blagodatnoye,true,92875.0,131744.56
+279,Spassk-Dal’niy,false,19424.74,24325.23
+280,Jocotán,false,75178.36,119053.18
+281,Narach,false,26492.81,129371.77
+282,Alpiarça,true,67168.36,51524.53
+283,Jingang,true,57012.52,39115.98
+284,Tayang,true,61895.35,92850.58
+285,Katav-Ivanovsk,true,89907.92,96991.8
+286,Wurigelebur,false,34526.06,26337.43
+287,Piketberg,false,57610.78,27331.46
+288,Cuevas,true,84514.15,105101.88
+289,Shuanghe,true,55195.38,63942.46
+290,Saint-André-Avellin,false,80260.0,81931.47
+291,Yangzi,true,53786.39,24100.71
+292,Namioka,true,85984.81,76246.67
+293,Smarhon’,false,28580.85,45172.73
+294,Gamut,false,6313.03,95091.7
+295,Molave,false,81642.79,49487.62
+296,Arruda dos Vinhos,true,39484.12,84724.78
+297,Sovetskaya,true,31258.31,42288.68
+298,Baganga,false,9797.12,87925.96
+299,Quangang,false,69597.57,101708.97
+300,Kolyvan’,false,51396.2,16454.25
+301,Araripina,true,33376.73,18246.44
+302,Padova,false,76260.93,133023.32
+303,Fresnes,true,33922.52,48123.51
+304,Brak,true,50780.89,28436.45
+305,Phonphisai,true,12824.11,129390.6
+306,Pruszcz,true,29924.42,22583.08
+307,Pataias,false,93501.66,137327.93
+308,Siteía,false,99966.99,61770.57
+309,Wuluquele,false,17303.16,59193.22
+310,Floriana,true,95272.42,64642.05
+311,Ollachea,true,78233.37,118862.44
+312,Žatec,true,69819.87,41166.91
+313,Pushkino,true,76861.41,69438.23
+314,San Salvador de Jujuy,true,14942.87,93387.9
+315,Regueiro,true,92190.07,97441.2
+316,Wichita,false,81129.06,39485.63
+317,Kembangkerang Lauk Timur,true,42861.34,135063.26
+318,Nirji,false,59937.59,32975.11
+319,Elói Mendes,true,85052.62,59883.12
+320,Butare,true,19085.65,60327.96
+321,Potštát,true,18093.05,17609.29
+322,Montpellier,true,52822.09,33059.51
+323,Tunduma,false,65559.96,113311.63
+324,Lincoln,true,8491.73,69416.17
+325,Miami,true,57919.64,12971.59
+326,Monte Aprazível,true,68430.72,21305.65
+327,Sanok,true,32977.05,49693.02
+328,Shunhe,true,52435.22,135057.31
+329,Bi’r Ḩāt,true,20118.33,105164.12
+330,Budapest,true,7276.68,107098.19
+331,Sumanding,false,65135.29,16751.19
+332,Avesta,true,11545.11,133985.42
+333,Beibao,false,39898.47,85081.99
+334,Millerovo,true,39140.97,56729.66
+335,Kunjāh,true,70386.03,17257.75
+336,Maliang,true,39120.31,103927.42
+337,Ganfang,false,97179.47,127484.7
+338,Al Madīd,false,69219.38,25853.42
+339,Dourados,false,67586.1,21036.38
+340,Árta,false,79670.33,11884.75
+341,Bolembre,false,77529.62,88878.84
+342,Jinhe,true,91490.77,93930.08
+343,Pavlovka,true,64058.04,15979.62
+344,Rungis,false,11196.09,33645.27
+345,Yahil’nytsya,true,32727.79,33813.54
+346,Reisjärvi,true,18584.93,49212.13
+347,Bella Vista,true,41127.8,96474.84
+348,Quba,false,57708.88,42549.84
+349,Gharyan,true,45118.62,117963.7
+350,Quebradas,false,27273.92,105390.3
+351,Limanowa,false,93103.0,97922.56
+352,Calauag,false,75106.14,25712.46
+353,Manlio Fabio Altamirano,true,72297.63,123201.07
+354,Linköping,true,63641.47,110591.92
+355,Lunang,true,17689.47,78027.42
+356,Lazdijai,false,27805.34,61757.91
+357,Sokyryany,true,35868.24,49776.16
+358,‘Ayn Ḩalāqīm,true,29528.78,138288.72
+359,Madoi,true,74456.41,17144.72
+360,Tarutung,false,87506.73,137109.67
+361,Dazhipo,false,68605.64,109774.88
+362,Lembanah,false,29227.22,38546.29
+363,Goranboy,false,50348.32,92796.28
+364,Wuluquele,false,15290.95,36750.18
+365,Sanguansi,true,1720.58,104961.14
+366,Angasmarca,false,82159.85,104124.36
+367,Beo,false,3819.48,102920.0
+368,Sindangsari,false,26004.6,63749.16
+369,Bor,true,26355.24,90034.35
+370,Jincheng,true,41653.84,52882.37
+371,Mirecourt,true,65726.35,127196.5
+372,Hamilton,false,21840.94,94727.84
+373,Nowe Grocholice,true,36098.47,129087.69
+374,San Juan de la Maguana,true,60178.52,119234.77
+375,Xihuachi,false,79956.79,47732.15
+376,La Julia,true,33903.27,50811.25
+377,Yaypan,false,6469.33,71003.64
+378,Ugbokpo,true,16712.16,45494.61
+379,Barotac Nuevo,false,23119.01,78427.5
+380,Oka,false,63844.82,111876.97
+381,Castro Barros,true,9347.14,89789.36
+382,Gubuk Daya,false,11354.7,99641.52
+383,Chambellan,true,79851.03,66566.65
+384,Wujing,true,85291.35,86954.99
+385,Jianxi,true,90279.02,81381.21
+386,Oula Xiuma,false,74415.92,36414.53
+387,Beigao,false,97792.54,104262.75
+388,Blumbang,true,16430.12,92095.13
+389,Eg,true,61326.5,42385.72
+390,Madrid,true,48914.82,107007.29
+391,Zgłobień,true,45404.38,124355.69
+392,Neuilly-sur-Marne,false,55785.96,76026.26
+393,Jaguariaíva,false,47118.36,111877.19
+394,Keroka,false,6428.83,40671.2
+395,Nagosela,true,61831.02,137360.33
+396,Businga,false,83505.17,65670.72
+397,Cikadu,false,90327.06,46444.69
+398,Humpolec,true,89507.66,92318.77
+399,Pessac,true,70465.24,137097.15
+400,Kerkrade,true,92929.2,39114.39
+401,Kalino,false,91054.5,24347.41
+402,Kermānshāh,true,19752.94,17773.56
+403,Pinhão,true,83257.82,21604.92
+404,Besko,false,9945.72,115107.5
+405,Paris 16,false,80102.77,35144.38
+406,Limón,false,74660.5,138689.27
+407,Shkurinskaya,true,75559.5,86773.46
+408,Daqiao,true,39197.9,63403.1
+409,Oštarije,false,63243.42,80218.28
+410,Marseille,true,94827.0,78584.13
+411,Chuoyuan,false,74918.77,74530.84
+412,Jambesari,true,55999.96,94017.33
+413,Tijucas,false,3657.06,104278.68
+414,Santa Adélia,false,46789.79,95877.39
+415,Anning,true,98548.68,39074.54
+416,Bojongsarung,true,88981.33,19631.12
+417,Brumado,true,70420.09,35269.07
+418,Huaping,true,65420.13,18883.15
+419,Dongshangguan,true,91806.83,82313.02
+420,Kuala Lumpur,true,89249.56,36341.02
+421,Hanušovice,true,90008.14,96709.14
+422,Rialma,true,63585.64,46268.03
+423,Léchovo,false,74968.08,110497.61
+424,Atiquizaya,true,96684.0,45666.42
+425,Kungshamn,true,17459.78,130349.49
+426,Lazaro Cardenas,false,72272.41,17954.46
+427,Sikasso,true,99456.44,116784.22
+428,Obando,false,72737.41,91767.86
+429,Cekcyn,false,21045.97,54301.98
+430,Rozvadov,true,98750.61,43722.81
+431,Guantun,true,20722.61,74088.14
+432,San Felipe,true,42182.49,89351.23
+433,Nzeto,true,63978.56,103186.57
+434,Lomba do Loução,false,34547.65,83017.87
+435,Đưc Trọng,true,28424.12,129195.55
+436,Miguel Hidalgo,true,27726.9,131689.08
+437,Malabago,false,54978.66,29722.64
+438,Hyrynsalmi,true,70424.52,46030.27
+439,Cachí,true,13831.43,125317.82
+440,Circasia,false,3966.71,64112.46
+441,Bunisari,false,76290.41,54767.82
+442,Cuispes,true,31804.38,100388.3
+443,Huaibei,true,42926.5,71805.39
+444,Chornoliztsi,false,63235.11,83461.6
+445,Xiangfu,false,35304.25,75879.19
+446,Babakanjaya,false,58097.27,128019.82
+447,Viçosa,true,10476.12,14221.97
+448,Malinovoye Ozero,true,11914.77,94600.16
+449,Cauto Cristo,false,66266.46,109642.23
+450,Åhus,false,17154.66,44181.99
+451,Phalaborwa,true,54077.78,57663.38
+452,Chikushino-shi,true,42600.81,65830.71
+453,Phibun Mangsahan,false,52749.44,78982.06
+454,Tây Hồ,true,3048.42,54908.17
+455,Harrisburg,true,5705.0,63182.2
+456,Dayapan,true,53529.98,67927.05
+457,Vale Maceiras,true,65205.34,15633.1
+458,Pretana,true,62333.98,92919.1
+459,Kungsör,true,40987.06,49088.44
+460,Jiuxi,true,32633.92,45277.29
+461,Sayḩūt,false,6503.59,99938.17
+462,Yahotyn,true,13219.93,35446.11
+463,Baoping,true,24998.18,129524.56
+464,Jiru,true,88338.58,110424.66
+465,Nūsay,true,84549.13,111079.67
+466,Angoulême,true,25659.28,79098.15
+467,Neyagawa,true,76202.87,23599.67
+468,Los Rastrojos,true,74816.73,118788.19
+469,Leran,true,42829.09,88398.58
+470,Dobrzyca,true,29495.29,105640.62
+471,Puyo,false,11603.72,23134.46
+472,Anabar,true,68255.35,137619.77
+473,Aţ Ţafīlah,false,72591.06,128983.82
+474,Santo Isidro,true,41703.29,75649.71
+475,Liuzhi,true,75352.13,63539.16
+476,Bitola,false,18142.78,127694.48
+477,Bilozerka,true,92639.02,69636.71
+478,Thorpe,false,7270.89,79354.8
+479,Ala,true,89577.33,97951.81
+480,Wolofeo,true,92230.65,96094.97
+481,Nastola,true,99634.9,73055.68
+482,Gaomi,false,99310.99,18547.63
+483,Tandel,true,54231.3,92287.77
+484,Kōnosu,true,54201.11,126675.86
+485,Herrljunga,true,30951.61,49627.27
+486,Canghou,true,81550.74,80860.78
+487,Puerto Maldonado,false,67597.15,105736.54
+488,Ushiku,true,59208.32,60750.25
+489,Mucuri,false,51142.89,32324.27
+490,Tiedonglu,false,91204.4,65296.06
+491,Shinyanga,false,99288.89,53822.92
+492,Malonty,false,95835.31,87524.68
+493,Sidi Lamine,false,64782.27,74770.96
+494,Ciseda,true,35036.76,69576.18
+495,Snizhne,false,23630.5,139828.1
+496,Pallasovka,false,3532.33,31784.72
+497,Aqaba,true,74816.91,46072.37
+498,Monte Mor,false,47705.23,44229.14
+499,Tallbīsah,false,83851.39,21129.54
+500,Batakte,true,90441.06,139750.2
+501,Baikouquan,true,10327.72,68356.39
+502,Shāhzādpur,false,87375.53,38817.88
+503,Jūrīsh,false,84761.5,22787.0
+504,Lille,true,73273.72,33862.15
+505,Przewóz,false,1091.83,102496.0
+506,Prokhorovka,true,83670.0,103013.85
+507,Fengsheng,true,64135.08,96119.46
+508,Pensacola,false,3127.63,22934.35
+509,Dengmu,false,66257.87,50663.55
+510,Fandriana,false,47978.82,25597.82
+511,Tiantang,true,81480.08,121131.81
+512,Potulando,true,92065.54,118408.81
+513,Paris 12,true,10443.02,62982.98
+514,Karatsu,true,29405.3,122099.9
+515,Zengfu,true,6037.92,56291.05
+516,Södra Sandby,false,21240.96,132319.67
+517,Mukayrās,true,50939.48,35326.74
+518,Klinan,true,27171.02,19261.14
+519,Zwolle,false,43139.18,22072.89
+520,Emiliano Zapata,true,7315.24,22805.79
+521,Manacsac,false,71624.27,54709.96
+522,Lycksele,false,17683.04,73510.27
+523,Quinta dos Frades,false,30792.36,30438.75
+524,Al Ma‘allā’,true,38494.95,131338.0
+525,Lunen,true,99760.96,120312.79
+526,Wonodadi,true,26703.68,91129.81
+527,Labansari,false,8412.61,116153.2
+528,Bahuang,false,31283.46,123404.02
+529,Lepoglava,true,38572.58,90531.74
+530,Dongshangen,true,91006.79,86976.77
+531,Wolowona,true,50555.68,57017.28
+532,Itatinga,true,71997.79,115379.31
+533,Yaguajay,true,49377.98,136201.83
+534,Beicang,false,34682.11,138691.23
+535,Mestre,false,82906.48,78620.3
+536,Elimäki,false,95862.22,102763.67
+537,Shënmëri,false,98264.28,24788.72
+538,Buka,false,36332.03,19944.85
+539,Buikwe,true,69625.36,100717.34
+540,Ellös,true,78752.39,120154.06
+541,Américo Brasiliense,true,4049.82,17747.15
+542,Huilong,true,9564.11,111930.21
+543,Gubskaya,false,43050.52,122101.42
+544,Douala,false,7864.24,28756.85
+545,Perpignan,false,79395.23,83125.43
+546,Trongsa,false,4481.91,127502.23
+547,Virden,false,33315.33,51910.46
+548,Izumo,true,93899.41,119362.4
+549,Vetlanda,true,97413.68,101375.31
+550,Garbolovo,false,90985.77,117970.08
+551,Taiyangling,true,58778.21,60099.14
+552,Dadong,true,66541.85,109418.52
+553,San Javier,false,90809.17,132761.18
+554,Takāb,true,5465.64,16856.57
+555,Slavyansk-na-Kubani,false,54732.63,113342.73
+556,Ciburial,true,40502.4,11576.9
+557,Chemerivtsi,true,51870.02,57477.09
+558,Augusto Corrêa,true,46145.13,47042.45
+559,Santo Tomas,true,7473.39,64539.16
+560,Kuusjoki,true,7348.07,45019.66
+561,Sātkania,true,41709.01,31701.11
+562,Pozo Hondo,false,70788.54,132348.69
+563,Lewodoli,false,22561.92,34067.86
+564,Vantaa,false,73267.56,27082.75
+565,Takahashi,true,53086.23,117046.3
+566,Dasuhe,false,57152.39,92622.16
+567,Leiguan,true,51179.21,21585.85
+568,Enriquillo,true,95314.68,14888.57
+569,Šmartno pri Litiji,false,85698.46,115806.68
+570,Santo Amaro,false,29892.6,35183.65
+571,Promyshlennovskiy,false,13696.37,76807.8
+572,Henglan,false,69418.48,89167.75
+573,Oetua,false,9376.29,80432.66
+574,Sollefteå,false,19283.39,19410.93
+575,Ban Takhun,false,56371.1,41324.49
+576,Mahong,false,22942.1,39450.7
+577,Sambungjaya,true,67965.4,70052.92
+578,Maisons-Laffitte,true,32869.76,34621.55
+579,Bontoc,false,53283.01,85713.86
+580,Nouaseur,true,24343.5,69890.71
+581,Duozhu,false,5390.0,41912.48
+582,Carvalhinho,true,52768.88,134782.76
+583,Kuncen,false,4701.86,31848.52
+584,Yamethin,false,85723.23,46634.45
+585,San Jacinto,false,69002.83,39620.92
+586,Ulcinj,true,88080.51,43898.04
+587,Flandes,true,30150.48,101406.09
+588,Trảng Bàng,true,40537.48,80154.21
+589,Karonga,false,73443.59,96535.01
+590,Calinaoan Malasin,true,54024.98,52014.2
+591,Shimen,true,93064.75,109336.68
+592,Youcheng,false,11043.21,35731.55
+593,Agustín Codazzi,true,12433.06,101965.15
+594,Tubli,false,56393.88,96571.17
+595,Krajenka,true,30688.33,127023.55
+596,Chulabhorn,true,59752.96,94026.96
+597,Chipinge,true,45483.51,46896.0
+598,Boavista,false,12264.29,55405.69
+599,Enköping,false,89130.26,101407.2
+600,Masu,false,91971.39,60556.46
+601,Tonghong,true,35586.92,84383.76
+602,Farīmān,true,79698.93,38767.86
+603,Nizao,true,71893.38,119648.58
+604,Adiaké,false,60096.65,106925.9
+605,Khon Buri,false,74492.06,94964.6
+606,Kostopil’,true,71594.46,44497.32
+607,Mandepa Barat,true,60809.92,20644.42
+608,Carodok,false,85663.6,134978.08
+609,Huaihua,false,28529.83,118433.92
+610,Myadzyel,true,9818.88,118078.32
+611,Taraz,false,68350.8,125179.96
+612,Medina Estates,false,95288.6,105513.94
+613,Ake-Eze,true,7011.76,96736.9
+614,Creil,true,57261.71,37312.02
+615,Punta Hermosa,true,7378.66,113543.87
+616,Passal,true,6374.65,40898.9
+617,Dairiti,true,85516.91,135627.56
+618,Alicante/Alacant,false,98553.52,130669.0
+619,Sasovo,true,27747.04,125039.03
+620,Sigetec,true,68032.74,89862.44
+621,Runan,true,64751.16,94627.47
+622,Dzuunmod,true,89149.71,99343.48
+623,Hongguang,false,17905.53,131831.82
+624,Võhma,true,51612.85,40969.97
+625,Siikajoki,true,64842.92,51810.48
+626,Opatów,true,93649.45,52708.05
+627,Cedar Rapids,false,24145.34,60932.99
+628,Panjakent,true,84976.82,122136.83
+629,Taling Chan,false,72195.63,14082.64
+630,Yongfa,true,36385.97,33017.88
+631,Fram,true,69774.52,20084.24
+632,Taokeng,true,56381.56,136299.19
+633,Kunyang,false,33357.09,112380.61
+634,Inderka,true,85732.32,76384.4
+635,Zhuxing Chaoxianzu,false,92082.25,123584.73
+636,Göteborg,true,23115.45,73557.24
+637,Eshowe,false,21657.89,23355.0
+638,Labytnangi,false,62168.85,69900.0
+639,Hupalivka,true,16535.05,11332.89
+640,Francisco Sarabia,false,3059.23,117817.46
+641,Acolla,true,2439.71,47659.05
+642,Sukakarya,false,90139.47,70904.81
+643,Shoushan,true,73599.03,105213.15
+644,Cidahu,true,36485.21,11764.94
+645,Aghada,true,68364.0,36966.01
+646,Tarrafal,true,18799.23,64840.99
+647,Salinggara,true,29251.47,125069.75
+648,San Sebastian,true,58580.05,126120.19
+649,Banatski Despotovac,true,59430.91,24083.57
+650,Haixing,true,58826.48,100013.29
+651,Mongo,true,24394.03,39742.6
+652,Tubajon,true,45736.2,89164.03
+653,Puerto Plata,false,2448.36,130718.88
+654,Borås,true,62843.06,47157.81
+655,Borovskiy,true,48643.91,48213.5
+656,Vannes,false,31353.08,131939.27
+657,Cocobeach,false,84568.9,138223.37
+658,Fengyan,true,93110.04,116331.99
+659,Gaiyang,false,50388.55,44362.24
+660,Laiya,true,59028.72,109478.8
+661,Krasnoye,false,94454.29,86043.81
+662,Mörön,false,27417.68,88883.47
+663,El Águila,true,7604.01,67439.78
+664,Toledo,true,51340.43,75265.93
+665,Lyon,false,77349.66,65581.18
+666,Masu,true,44344.26,100303.35
+667,Dawusu,false,38686.92,102871.23
+668,Songhae,true,21541.73,84213.92
+669,Saint-Denis,true,66290.58,133750.35
+670,Arnelas,true,1760.39,28785.55
+671,Mehar,false,59627.43,46381.29
+672,Takayama,false,83878.36,97803.46
+673,Zagora,false,90633.7,83336.86
+674,Ejigbo,false,4160.05,107679.76
+675,Swellendam,true,27774.85,60116.45
+676,Shūkat aş Şūfī,false,48513.19,139412.41
+677,Billings,false,57831.58,35901.62
+678,Saddina,false,50440.37,127216.61
+679,Dingbu,true,40584.98,99186.73
+680,Kitamilo,false,72691.77,81119.37
+681,Laimuda,false,91244.79,100695.16
+682,Dulolong,true,42478.39,80741.85
+683,Swedru,true,98073.46,15578.04
+684,Karlskrona,false,91850.39,35465.96
+685,Tarbes,false,98622.39,23507.67
+686,Chengui,false,63665.85,87544.39
+687,Elliot,false,93193.44,17728.31
+688,Banjar Serangan,false,29579.5,47928.68
+689,Silago,true,8589.68,135048.7
+690,Krajan,false,9374.52,70429.16
+691,Pórto Chéli,true,67925.07,93039.71
+692,Volkhov,true,75077.93,132318.62
+693,Mander,true,1609.76,66726.38
+694,Susunan,true,98058.97,32188.51
+695,Pŭrvomaytsi,false,75043.15,76229.08
+696,Esperanza,false,75502.11,24871.27
+697,Ribeira Grande,false,96078.48,59824.08
+698,Nishi-Tokyo-shi,true,37055.58,42451.24
+699,Dawa-Dawa,false,15060.52,134458.62
+700,Kapatagan,true,92535.7,127432.64
+701,Malārd,true,3130.8,105443.55
+702,Lisičani,false,10729.46,74437.01
+703,Liulimiao,true,36146.6,72348.42
+704,Esigodini,true,14604.93,114636.09
+705,Istaravshan,true,39914.76,47673.31
+706,Zhuting,false,36888.59,83154.63
+707,Haykashen,true,55590.18,72450.69
+708,Guatimozín,true,3093.59,136419.41
+709,Kista,false,93055.14,82064.66
+710,Garland,false,69844.47,77524.16
+711,Quinta,true,9340.57,12438.67
+712,Looc,true,96407.39,59584.56
+713,Nouakchott,false,35887.58,108949.32
+714,Xiatuanpu,false,61775.85,97756.84
+715,Gävle,true,11843.94,47152.43
+716,Lumsden,true,54712.91,69256.85
+717,Zaymishche,true,92099.38,39774.56
+718,Majie,false,86978.77,106526.61
+719,Oguta,true,77010.02,39066.36
+720,Welisara,true,51145.43,60849.71
+721,Poddębice,true,77051.2,101961.96
+722,Ulcinj,false,2867.76,49559.37
+723,Yamaguchi-shi,true,54848.43,117867.24
+724,Minh Lương,false,48022.87,36513.54
+725,Changsha,false,34068.58,134712.76
+726,Oslo,false,67578.73,135078.53
+727,Catumbela,true,76134.5,13502.1
+728,San Agustin,true,52808.79,122319.78
+729,Musashino,false,18035.41,116458.71
+730,Agrelo,false,21633.17,44424.27
+731,Arenal,true,78120.64,128659.65
+732,Juai,true,86834.96,122625.49
+733,Pingsha,true,84644.53,34297.85
+734,Toyohashi,true,92766.37,104401.2
+735,Turki,true,40895.58,42830.04
+736,Gongfang,false,72160.14,60536.29
+737,Manay,false,25490.62,107737.74
+738,Pskov,true,66961.79,118283.18
+739,Trondheim,false,23249.61,102220.69
+740,Daishan,false,14243.79,35416.97
+741,Ban Na Muang,true,68531.89,103159.07
+742,Gelemso,false,52664.08,94402.7
+743,Vannes,true,38559.01,53069.13
+744,Yunmen,true,81953.89,79056.8
+745,Magisterial,false,57538.66,67782.82
+746,Tegallega,false,55639.9,55924.62
+747,Feilaixia,false,40565.48,67248.34
+748,Loacan,false,84587.11,97238.36
+749,Tiebiancheng,true,34381.01,132359.22
+750,Liliana,true,21142.71,15897.65
+751,Tourcoing,false,30027.47,65153.52
+752,Andou,true,33816.8,20888.36
+753,Kashiwa,true,14481.05,76534.42
+754,Belén de Escobar,true,51674.93,19335.24
+755,Bishkek,true,36150.43,130116.64
+756,Zhougang,false,66480.24,31629.78
+757,Bedalewun,true,95677.75,80799.9
+758,Cipinang,true,29793.48,46242.55
+759,Xingong,true,38761.8,49672.9
+760,Tanabe,false,97864.83,62125.72
+761,Pereira Barreto,false,15845.25,81162.15
+762,Chelbasskaya,true,31189.48,87652.7
+763,Staryy Merchyk,false,45990.76,91170.06
+764,Yengiawat,false,14744.65,100136.39
+765,Dunyāpur,true,83458.07,48837.45
+766,Sävedalen,false,71119.23,28320.0
+767,Tonghong,false,30524.03,113702.38
+768,Dulce Nombre de Culmí,true,97372.36,84069.62
+769,Dandu,false,35074.77,104774.88
+770,Zhanxu,true,5246.38,45430.3
+771,Sierra Imataca,true,9411.28,84050.52
+772,Panimbang,false,78045.62,125907.77
+773,Baturité,true,95441.69,53325.61
+774,Moulay Abdallah,false,70688.26,106571.91
+775,Monte Patria,true,63134.17,130036.58
+776,Toulouse,true,39354.0,112724.53
+777,Pyšely,false,19073.81,132051.94
+778,Chenjiaba,false,87493.55,69535.11
+779,Wisznice,true,27247.06,134905.25
+780,Turpo,true,34152.99,80158.81
+781,Mari,true,51643.94,11586.3
+782,Primorsko,false,3535.67,27723.57
+783,Martin,true,51585.1,72991.44
+784,Paris 13,false,32151.74,50934.08
+785,Washington,false,13399.29,81409.48
+786,Dajanrurung,true,53356.2,92287.79
+787,Mayuan,false,82443.4,131855.88
+788,Tepal,true,88658.29,130778.67
+789,Sumberagung,false,28788.59,109634.22
+790,Koror,false,33367.82,22652.53
+791,Kumbo,false,93704.61,65549.76
+792,Bykhaw,true,43547.39,134357.39
+793,Iperó,true,68640.27,133887.54
+794,Karantaba,true,94747.43,39145.22
+795,Lebedyn,true,70586.04,11529.01
+796,Paris 16,false,19749.11,21624.08
+797,Vittoriosa,true,58205.41,13773.71
+798,Norrköping,true,64141.92,20050.75
+799,Dawang,false,40422.77,109287.36
+800,Miyazu,true,11257.34,56299.17
+801,Pamatang,false,23540.81,61250.38
+802,Duishan,false,61914.68,13664.25
+803,Yangyu,false,96014.71,88673.9
+804,Tulungrejo,true,40056.2,136886.16
+805,Zouma,false,43739.87,116858.08
+806,Köln,false,82185.57,102639.63
+807,Nantuo,false,48750.44,119367.05
+808,Casais de Revelhos,false,65297.28,136691.21
+809,Ad Dawḩah,true,95878.13,21146.63
+810,Vyshhorod,true,11683.36,99198.8
+811,Waru,true,89305.68,114613.38
+812,Songdong,true,14719.78,103325.87
+813,Hexi,false,58368.14,90000.56
+814,La Palma,true,8070.91,36012.61
+815,Vale Mourão,true,27571.22,19744.45
+816,Point Hill,true,86032.29,76685.82
+817,Pung-Pang,true,40095.28,127271.71
+818,Yŏnan-ŭp,true,15244.82,94571.87
+819,Kekeran,false,18026.37,132852.31
+820,Ban Talat Bueng,true,5698.47,62141.03
+821,Sampangan,false,68253.68,97464.89
+822,Mbale,false,8459.74,26097.45
+823,Makin Village,true,41723.17,52174.7
+824,Karmah an Nuzul,false,43308.57,13285.43
+825,Dolo,true,96128.23,43718.34
+826,Banjar Kertasari,false,26710.56,95851.28
+827,Butou,true,55184.16,106382.69
+828,San Lorenzo,true,6270.86,34619.03
+829,Medvedok,false,85110.33,54063.88
+830,Mondokan,true,51765.66,126170.61
+831,Thung Yang Daeng,false,98047.94,89746.11
+832,Selorejo,true,64373.89,109828.64
+833,Purong,true,71700.71,19653.56
+834,Srebrenica,true,1884.6,107805.06
+835,‘Abs,false,38684.29,139603.26
+836,Asahbadung,true,24167.34,75881.11
+837,Quảng Yên,true,1458.15,105295.67
+838,Pau,true,69183.17,46194.31
+839,Banpu,false,70715.27,31159.15
+840,Engel’-Yurt,false,11024.41,96102.63
+841,Jingzhou,false,83834.49,35147.8
+842,Lefkímmi,true,15582.81,17946.01
+843,Kowŏn-ŭp,true,9484.95,24844.29
+844,Kranggan,false,74886.66,125157.18
+845,Igrejinha,true,19934.95,127220.97
+846,Skidal’,true,30555.39,95526.38
+847,Struga,true,16096.1,28739.9
+848,Antanhol,true,40222.06,36206.77
+849,Rogoźnik,true,42292.44,101013.55
+850,Cayenne,false,65208.86,40173.93
+851,Kisarazu,true,71424.33,72722.28
+852,Bourgoin-Jallieu,true,1263.18,21815.3
+853,Ciparay,true,39879.69,84116.53
+854,Saint-Quentin,false,19798.33,48928.28
+855,Molagavita,false,58374.99,62814.91
+856,Salento,false,18120.45,102091.34
+857,Banatski Despotovac,true,69590.4,13794.92
+858,Dadukou,true,76301.59,112331.58
+859,George Hill,true,82891.63,133258.39
+860,Mullsjö,true,76453.64,21549.29
+861,Porsgrunn,false,55407.19,34400.69
+862,Itaporanga,false,62277.8,54219.95
+863,Santa Elena de Uairén,false,39301.72,124429.19
+864,Jiancheng,true,29095.69,87704.8
+865,Kruševo,true,28400.37,70332.77
+866,Melioratyvne,false,31840.27,14091.94
+867,Jiangkou,true,56336.4,32543.73
+868,Regla,true,51394.11,139016.47
+869,Saint Augustine,false,84118.69,72152.19
+870,Albuquerque,false,13403.23,59557.7
+871,Nova Odessa,false,74282.56,98723.45
+872,Lae,false,87233.17,74153.61
+873,Angadanan,false,13545.3,84373.19
+874,Svyetlahorsk,true,67827.17,60311.36
+875,Encañada,false,40525.33,100218.58
+876,Khon San,false,19635.37,75926.29
+877,Huicheng,true,53059.59,105594.91
+878,Cabiao,false,94719.42,139634.39
+879,Stony Hill,true,89268.31,74473.35
+880,Long’an Chengxiangzhen,true,73040.13,128638.89
+881,Al Mushannaf,false,20362.22,75012.21
+882,Tortosendo,false,79883.4,80025.12
+883,Huanghu,false,4710.89,25125.42
+884,Gao’an,true,52667.83,108138.04
+885,San Andres,true,83106.9,67187.65
+886,Rýmařov,false,2986.14,52748.11
+887,Morrito,false,99805.7,48322.87
+888,Mora,true,31776.96,118803.2
+889,Los Dos Caminos,false,9011.73,16645.22
+890,Södra Sandby,false,92972.44,47120.5
+891,Rouen,true,38308.62,76081.48
+892,Itzig,false,59764.05,30445.71
+893,Thorpe,true,9374.3,13133.95
+894,Sośnie,true,1368.67,20691.95
+895,Brzączowice,false,43708.88,120577.35
+896,Tisco,true,34416.66,99510.36
+897,Ransiki,true,30786.54,84423.75
+898,Tambo Grande,true,52197.8,119059.04
+899,Zumiao,true,81468.43,18543.25
+900,Valladolid,false,11927.54,93506.35
+901,Gubo,true,36125.64,105883.75
+902,Ajaccio,false,38420.85,49489.52
+903,Tsovazard,false,4750.11,117541.87
+904,Lautaro,true,15294.32,86887.3
+905,Sal’sk,false,82631.69,113847.08
+906,Bafia,false,73444.53,91739.25
+907,Danao,true,56285.77,53597.15
+908,Paraiso,true,37451.86,18119.22
+909,Sopla,false,87002.67,109289.31
+910,Nart,false,95367.47,23673.04
+911,Asahi,true,75362.04,38607.86
+912,Monte Azul Paulista,false,12037.38,100321.63
+913,Verdun,true,76944.18,76178.75
+914,Shataping,true,74288.96,126544.14
+915,Pępowo,true,86693.33,117040.9
+916,Tubo,true,83328.32,64795.82
+917,Rio de Mouro,true,80641.13,51841.23
+918,Fort Worth,true,68839.53,82223.59
+919,La Ceja,false,8992.88,26872.76
+920,Biguaçu,false,79556.54,48935.95
+921,Castleblayney,false,16084.93,133109.0
+922,Kwangmyŏng,true,64915.34,64664.29
+923,Xiangjia,false,28854.95,111176.14
+924,Montgomery,false,77516.18,106958.56
+925,Barberton,false,57507.73,95977.97
+926,Gradačac,true,71550.51,67428.14
+927,Yuncheng,false,77657.63,31587.31
+928,Brochów,false,58728.9,88305.07
+929,Baitao,true,2634.18,26862.0
+930,Gunung,true,69854.88,60647.73
+931,Mata de São João,false,60518.0,76422.82
+932,Chenzhou,true,6444.06,87189.03
+933,Dabancheng,true,81196.98,99627.53
+934,Sieradza,false,74119.36,94005.45
+935,Otacílio Costa,true,69759.33,66731.59
+936,Cimahi,true,99630.63,74885.89
+937,Chernivtsi,false,49756.35,17188.59
+938,Xiangyang,true,70617.13,15366.27
+939,Sanzao,false,26679.27,83191.06
+940,Jacksonville,true,27634.48,83107.93
+941,Puerto La Cruz,false,17272.54,108429.88
+942,Rancapare,true,53291.61,36790.06
+943,Itaúna,false,85987.86,94040.71
+944,Molepolole,false,95980.15,90918.74
+945,Yixingfu,false,75008.0,50793.21
+946,Gaigeturi,false,52516.51,17476.05
+947,Biscoitos,true,71574.19,49673.49
+948,Telmin Suma,true,60801.46,63341.3
+949,Cabrero,false,8302.31,14055.56
+950,Kamieniec,true,42996.54,32365.65
+951,Cilegi,false,89604.92,24567.41
+952,Philadelphia,true,39074.87,101350.21
+953,Türkmenbaşy,false,64081.02,98342.03
+954,Putrajaya,false,50789.31,92089.06
+955,Faya-Largeau,true,97285.34,96182.44
+956,Villa del Carmen,false,35446.29,126085.35
+957,Salinas,false,19025.81,127112.77
+958,Abreu e Lima,false,64714.32,59597.21
+959,Pisz,false,59870.46,127044.33
+960,Bakunase,true,19269.53,18946.15
+961,Qianjiang,true,44208.83,123801.13
+962,Tanahwurung,true,88833.27,137748.49
+963,Huangshi,false,48886.35,98712.49
+964,Santa Cruz,true,45455.36,53786.99
+965,Bual,true,35252.66,125509.93
+966,Bystřany,false,44814.24,108612.88
+967,Azor,true,88685.41,131601.41
+968,Arnage,false,65971.1,130696.84
+969,Samara,false,66390.54,15213.3
+970,Dālbandīn,false,46360.38,83592.28
+971,San Patricio,false,77599.11,135400.19
+972,Vysoké Mýto,true,88156.49,112418.68
+973,Norrtälje,true,93645.39,127633.84
+974,Zunilito,true,82970.24,93096.45
+975,Irricana,false,20599.45,27534.97
+976,Alcabideche,false,15509.91,138433.7
+977,Sabugueiro,false,70893.83,62696.88
+978,Ritaebang,false,76939.35,36548.52
+979,Tobruk,true,41028.18,128960.13
+980,Gashua,true,32240.56,50677.12
+981,Arazane,true,93960.74,59130.52
+982,Cipaku,true,27824.22,59500.49
+983,Kasreman Wetan,false,75093.57,44673.46
+984,Viterbo,false,92972.4,131380.21
+985,Niquelândia,false,87319.59,103145.65
+986,Eldoret,true,45911.14,14555.37
+987,Baxiangshan,false,90499.11,122207.21
+988,Zherdevka,false,12435.04,130176.02
+989,Odesskoye,false,91347.61,120438.93
+990,Saint-Augustin-de-Desmaures,true,54051.83,44780.8
+991,Kadoma,false,1910.66,51878.87
+992,Nagqu,false,80417.85,74559.79
+993,Arroyo Salado,false,36695.83,123081.65
+994,Santo Antônio do Amparo,false,13560.04,23849.11
+995,Lazaro Cardenas,true,2285.09,43456.14
+996,Ramos West,true,90871.82,33750.4
+997,Tsagaanchuluut,false,87341.86,12369.21
+998,Virovitica,false,20810.66,122393.52
+999,Wensu,true,64414.6,66510.58
+1000,Mino,true,55490.04,64594.0
